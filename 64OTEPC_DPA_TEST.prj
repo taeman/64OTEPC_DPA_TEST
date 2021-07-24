@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>64OTEPC_DPA_TEST</name>
+   <name>64OTEPC_DPA_TEST_UAT2</name>
    <tag></tag>
    <UUID>9e104b1e-7a7e-4a99-94ba-7594838e473a</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/sathianphongsukin/git/64OTEPC_DPA_TEST/64OTEPC_DPA_TEST.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

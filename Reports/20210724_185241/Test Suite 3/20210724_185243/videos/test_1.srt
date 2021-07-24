@@ -1,0 +1,88 @@
+1
+00:00:00,461 --> 00:00:04,423
+1. openBrowser("")
+
+2
+00:00:04,431 --> 00:00:07,065
+5. navigateToUrl("http://eval.sbs-app.com:3005/auth/login")
+
+3
+00:00:07,066 --> 00:00:08,472
+9. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input__email"), "piyachon.kompang@gmail.com")
+
+4
+00:00:08,474 --> 00:00:09,045
+13. setEncryptedText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input__password"), "4wKTkCwZKEE=")
+
+5
+00:00:09,046 --> 00:00:09,644
+17. click(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/button_"))
+
+6
+00:00:09,645 --> 00:00:11,830
+21. click(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/a_Stockholm-icons  Communication  Write    _033300"))
+
+7
+00:00:11,830 --> 00:00:12,666
+25. click(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/a_Stockholm-icons  Communication  Write    _033300_1"))
+
+8
+00:00:12,667 --> 00:00:13,452
+29. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_1"), "25")
+
+9
+00:00:13,453 --> 00:00:14,283
+33. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_2"), "28")
+
+10
+00:00:14,284 --> 00:00:15,007
+37. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_3"), "24")
+
+11
+00:00:15,008 --> 00:00:15,817
+41. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_1"), "10")
+
+12
+00:00:15,817 --> 00:00:16,746
+45. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_2"), "15")
+
+13
+00:00:16,746 --> 00:00:17,467
+49. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_3"), "14")
+
+14
+00:00:17,468 --> 00:00:19,493
+53. delay(2)
+
+15
+00:00:19,494 --> 00:00:20,151
+57. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_1"), "57")
+
+16
+00:00:20,151 --> 00:00:21,002
+61. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_2"), "56")
+
+17
+00:00:21,002 --> 00:00:21,784
+65. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_3"), "59")
+
+18
+00:00:21,785 --> 00:00:22,621
+69. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_1"), "38")
+
+19
+00:00:22,622 --> 00:00:23,494
+73. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_2"), "39")
+
+20
+00:00:23,494 --> 00:00:24,448
+77. setText(findTestObject("Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_3"), "36")
+
+21
+00:00:24,448 --> 00:00:26,456
+81. delay(2)
+
+22
+00:00:26,456 --> 00:00:26,655
+85. closeBrowser()
+

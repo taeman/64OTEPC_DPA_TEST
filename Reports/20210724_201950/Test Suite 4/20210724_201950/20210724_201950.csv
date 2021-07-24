@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 4,Chrome 92.0.4515.107,,,2021-07-24 20:20:06,2021-07-24 20:20:25,19.183s,PASSED
+,,,,,,,
+Test Cases/UAT-PA-01-004,Chrome 92.0.4515.107,,,2021-07-24 20:20:06,2021-07-24 20:20:25,18.935s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.107,,,2021-07-24 20:20:07,2021-07-24 20:20:10,3.443s,PASSED
+"navigateToUrl(""http://eval.sbs-app.com:3003/auth/login"")",Chrome 92.0.4515.107,,,2021-07-24 20:20:10,2021-07-24 20:20:13,3.223s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-004/input__email""), ""admin@demo.com"")",Chrome 92.0.4515.107,,,2021-07-24 20:20:13,2021-07-24 20:20:15,1.206s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/UAT-PA-01-004/input__password""), ""PblvLzUlPsM="")",Chrome 92.0.4515.107,,,2021-07-24 20:20:15,2021-07-24 20:20:15,0.627s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-004/button_""))",Chrome 92.0.4515.107,,,2021-07-24 20:20:15,2021-07-24 20:20:16,0.576s,PASSED
+delay(2),Chrome 92.0.4515.107,,,2021-07-24 20:20:16,2021-07-24 20:20:18,2.028s,PASSED
+"navigateToUrl(""http://eval.sbs-app.com:3003/setting/pa-criterions"")",Chrome 92.0.4515.107,,,2021-07-24 20:20:18,2021-07-24 20:20:18,0.624s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/UAT-PA-01-004/select_256525642563""), ""2565"", true)",Chrome 92.0.4515.107,,,2021-07-24 20:20:18,2021-07-24 20:20:20,1.246s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-004/input__form-control""), ""60"")",Chrome 92.0.4515.107,,,2021-07-24 20:20:20,2021-07-24 20:20:20,0.575s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-004/div_256525642563 PA 1   2""))",Chrome 92.0.4515.107,,,2021-07-24 20:20:20,2021-07-24 20:20:21,0.423s,PASSED
+delay(2),Chrome 92.0.4515.107,,,2021-07-24 20:20:21,2021-07-24 20:20:23,2.007s,PASSED
+closeBrowser(),Chrome 92.0.4515.107,,,2021-07-24 20:20:23,2021-07-24 20:20:23,0.161s,PASSED
+Video,Chrome 92.0.4515.107,,,2021-07-24 20:20:25,2021-07-24 20:20:25,0.001s,PASSED

@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 2,Chrome 92.0.4515.107,,,2021-07-24 17:16:49,2021-07-24 17:17:11,21.819s,PASSED
+,,,,,,,
+Test Cases/UAT-PA-01-002,Chrome 92.0.4515.107,,,2021-07-24 17:16:49,2021-07-24 17:17:11,21.470s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.107,,,2021-07-24 17:16:50,2021-07-24 17:16:55,4.689s,PASSED
+"navigateToUrl(""http://eval.sbs-app.com:3005/auth/login"")",Chrome 92.0.4515.107,,,2021-07-24 17:16:55,2021-07-24 17:16:57,2.207s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-002/Page_(DPA)/div_(Digital Performamce AppraisalDPA)""))",Chrome 92.0.4515.107,,,2021-07-24 17:16:57,2021-07-24 17:16:58,0.933s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-002/Page_(DPA)/input__email""), ""piyachon.kompang@gmail.com"")",Chrome 92.0.4515.107,,,2021-07-24 17:16:58,2021-07-24 17:16:59,1.009s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/UAT-PA-01-002/Page_(DPA)/input__password""), ""4wKTkCwZKEE="")",Chrome 92.0.4515.107,,,2021-07-24 17:16:59,2021-07-24 17:17:00,0.761s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-002/Page_(DPA)/button_""))",Chrome 92.0.4515.107,,,2021-07-24 17:17:00,2021-07-24 17:17:00,0.486s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-002/Page_(DPA)/div_Stockholm-icons  Communication  Group  _fa9e8a""))",Chrome 92.0.4515.107,,,2021-07-24 17:17:00,2021-07-24 17:17:02,1.470s,PASSED
+"mouseOver(findTestObject(""UAT-PA-01-002/Page_(DPA)/svg_Stockholm-icons  Communication  Write  _c34258""))",Chrome 92.0.4515.107,,,2021-07-24 17:17:02,2021-07-24 17:17:03,0.820s,PASSED
+delay(2),Chrome 92.0.4515.107,,,2021-07-24 17:17:03,2021-07-24 17:17:05,2.045s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-002/Page_(DPA)/svg_Stockholm-icons  Communication  Write  _c34258""))",Chrome 92.0.4515.107,,,2021-07-24 17:17:05,2021-07-24 17:17:05,0.598s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-002/Page_(DPA)/svg_Stockholm-icons  General  Attachment2  _c8965f""))",Chrome 92.0.4515.107,,,2021-07-24 17:17:05,2021-07-24 17:17:06,0.715s,PASSED
+delay(2),Chrome 92.0.4515.107,,,2021-07-24 17:17:06,2021-07-24 17:17:08,2.010s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-002/Page_(DPA)/button__1""))",Chrome 92.0.4515.107,,,2021-07-24 17:17:08,2021-07-24 17:17:08,0.440s,PASSED
+closeBrowser(),Chrome 92.0.4515.107,,,2021-07-24 17:17:08,2021-07-24 17:17:09,0.211s,PASSED
+Video,Chrome 92.0.4515.107,,,2021-07-24 17:17:11,2021-07-24 17:17:11,0.001s,PASSED

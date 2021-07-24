@@ -1,0 +1,56 @@
+1
+00:00:00,481 --> 00:00:05,161
+1. openBrowser("")
+
+2
+00:00:05,174 --> 00:00:07,378
+5. navigateToUrl("http://eval.sbs-app.com:3005/auth/login")
+
+3
+00:00:07,381 --> 00:00:08,314
+9. click(findTestObject("Object Repository/UAT-PA-01-002/Page_(DPA)/div_(Digital Performamce AppraisalDPA)"))
+
+4
+00:00:08,314 --> 00:00:09,323
+13. setText(findTestObject("Object Repository/UAT-PA-01-002/Page_(DPA)/input__email"), "piyachon.kompang@gmail.com")
+
+5
+00:00:09,323 --> 00:00:10,062
+17. setEncryptedText(findTestObject("Object Repository/UAT-PA-01-002/Page_(DPA)/input__password"), "4wKTkCwZKEE=")
+
+6
+00:00:10,084 --> 00:00:10,595
+21. click(findTestObject("Object Repository/UAT-PA-01-002/Page_(DPA)/button_"))
+
+7
+00:00:10,596 --> 00:00:12,066
+25. click(findTestObject("Object Repository/UAT-PA-01-002/Page_(DPA)/div_Stockholm-icons  Communication  Group  _fa9e8a"))
+
+8
+00:00:12,067 --> 00:00:12,887
+29. mouseOver(findTestObject("UAT-PA-01-002/Page_(DPA)/svg_Stockholm-icons  Communication  Write  _c34258"))
+
+9
+00:00:12,887 --> 00:00:14,932
+33. delay(2)
+
+10
+00:00:14,932 --> 00:00:15,530
+37. click(findTestObject("Object Repository/UAT-PA-01-002/Page_(DPA)/svg_Stockholm-icons  Communication  Write  _c34258"))
+
+11
+00:00:15,530 --> 00:00:16,246
+41. click(findTestObject("Object Repository/UAT-PA-01-002/Page_(DPA)/svg_Stockholm-icons  General  Attachment2  _c8965f"))
+
+12
+00:00:16,246 --> 00:00:18,255
+45. delay(2)
+
+13
+00:00:18,256 --> 00:00:18,695
+49. click(findTestObject("Object Repository/UAT-PA-01-002/Page_(DPA)/button__1"))
+
+14
+00:00:18,696 --> 00:00:18,909
+53. closeBrowser()
+

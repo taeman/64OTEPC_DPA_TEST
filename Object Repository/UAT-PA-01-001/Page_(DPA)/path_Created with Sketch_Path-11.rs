@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Created with Sketch_Path-11</name>
+   <tag></tag>
+   <elementGuidId>185edc9f-6acf-45f9-9768-a67e9f70450c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M12.2674799,18.2323597 L12.0084872,5.45852451 C12.0004303,5.06114792 12.1504154,4.6768183 12.4255037,4.38993949 L15.0030167,1.70195304 L17.5910752,4.40093695 C17.8599071,4.6812911 18.0095067,5.05499603 18.0083938,5.44341307 L17.9718262,18.2062508 C17.9694575,19.0329966 17.2985816,19.701953 16.4718324,19.701953 L13.7671717,19.701953 C12.9505952,19.701953 12.2840328,19.0487684 12.2674799,18.2323597 Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Path-11</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#000000</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>nonzero</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(14.701953, 10.701953) rotate(-135.000000) translate(-14.701953, -10.701953) </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid&quot;]/div[@class=&quot;container&quot;]/app-pa[1]/app-user-info[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/div[1]/app-pa-list[1]/div[@class=&quot;card card-custom gutter-b&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive angular-bootstrap-table&quot;]/table[@class=&quot;table table-head-custom table-vertical-center overflow-hidden&quot;]/tbody[1]/tr[2]/td[8]/a[@class=&quot;btn btn-icon btn-light btn-hover-primary btn-sm mx-3&quot;]/span[@class=&quot;svg-icon svg-icon-md svg-icon-primary&quot;]/svg[1]/g[@id=&quot;Stockholm-icons-/-Communication-/-Write&quot;]/path[@id=&quot;Path-11&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

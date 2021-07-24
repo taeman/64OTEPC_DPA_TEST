@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 3,Chrome 92.0.4515.107,,,2021-07-24 18:52:55,2021-07-24 18:53:25,29.400s,PASSED
+,,,,,,,
+Test Cases/UAT-PA-01-003,Chrome 92.0.4515.107,,,2021-07-24 18:52:56,2021-07-24 18:53:25,29.107s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.107,,,2021-07-24 18:52:57,2021-07-24 18:53:00,3.968s,PASSED
+"navigateToUrl(""http://eval.sbs-app.com:3005/auth/login"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:00,2021-07-24 18:53:03,2.634s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input__email""), ""piyachon.kompang@gmail.com"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:03,2021-07-24 18:53:05,1.407s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input__password""), ""4wKTkCwZKEE="")",Chrome 92.0.4515.107,,,2021-07-24 18:53:05,2021-07-24 18:53:05,0.568s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/button_""))",Chrome 92.0.4515.107,,,2021-07-24 18:53:05,2021-07-24 18:53:06,0.599s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/a_Stockholm-icons  Communication  Write    _033300""))",Chrome 92.0.4515.107,,,2021-07-24 18:53:06,2021-07-24 18:53:08,2.185s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/a_Stockholm-icons  Communication  Write    _033300_1""))",Chrome 92.0.4515.107,,,2021-07-24 18:53:08,2021-07-24 18:53:09,0.836s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_1""), ""25"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:09,2021-07-24 18:53:10,0.786s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_2""), ""28"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:10,2021-07-24 18:53:10,0.830s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_3""), ""24"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:10,2021-07-24 18:53:11,0.724s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_1""), ""10"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:11,2021-07-24 18:53:12,0.808s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_2""), ""15"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:12,2021-07-24 18:53:13,0.929s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_3""), ""14"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:13,2021-07-24 18:53:14,0.721s,PASSED
+delay(2),Chrome 92.0.4515.107,,,2021-07-24 18:53:14,2021-07-24 18:53:16,2.026s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_1""), ""57"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:16,2021-07-24 18:53:16,0.658s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_2""), ""56"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:16,2021-07-24 18:53:17,0.851s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_3""), ""59"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:17,2021-07-24 18:53:18,0.782s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_1""), ""38"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:18,2021-07-24 18:53:19,0.837s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_2""), ""39"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:19,2021-07-24 18:53:20,0.871s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_3""), ""36"")",Chrome 92.0.4515.107,,,2021-07-24 18:53:20,2021-07-24 18:53:20,0.953s,PASSED
+delay(2),Chrome 92.0.4515.107,,,2021-07-24 18:53:20,2021-07-24 18:53:23,2.007s,PASSED
+closeBrowser(),Chrome 92.0.4515.107,,,2021-07-24 18:53:23,2021-07-24 18:53:23,0.197s,PASSED
+Video,Chrome 92.0.4515.107,,,2021-07-24 18:53:25,2021-07-24 18:53:25,0.001s,PASSED

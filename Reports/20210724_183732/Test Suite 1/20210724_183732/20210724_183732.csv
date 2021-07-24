@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 1,Chrome 92.0.4515.107,,,2021-07-24 18:37:46,2021-07-24 18:38:09,22.940s,PASSED
+,,,,,,,
+Test Cases/UAT-PA-01-001,Chrome 92.0.4515.107,,,2021-07-24 18:37:46,2021-07-24 18:38:09,22.591s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.107,,,2021-07-24 18:37:47,2021-07-24 18:37:51,4.233s,PASSED
+"navigateToUrl(""http://eval.sbs-app.com:3005/auth/login"")",Chrome 92.0.4515.107,,,2021-07-24 18:37:51,2021-07-24 18:37:53,2.046s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input__email""), ""piyachon.kompang@gmail.com"")",Chrome 92.0.4515.107,,,2021-07-24 18:37:53,2021-07-24 18:37:54,1.401s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input__password""), ""4wKTkCwZKEE="")",Chrome 92.0.4515.107,,,2021-07-24 18:37:54,2021-07-24 18:37:55,0.548s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/button_""))",Chrome 92.0.4515.107,,,2021-07-24 18:37:55,2021-07-24 18:37:56,0.552s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/a_Stockholm-icons  Communication  Write    _033300""))",Chrome 92.0.4515.107,,,2021-07-24 18:37:56,2021-07-24 18:37:57,1.798s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/a_Stockholm-icons  Communication  Write    _033300_1""))",Chrome 92.0.4515.107,,,2021-07-24 18:37:57,2021-07-24 18:37:58,0.729s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_1""), ""40"")",Chrome 92.0.4515.107,,,2021-07-24 18:37:58,2021-07-24 18:37:59,0.884s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_2""), ""30"")",Chrome 92.0.4515.107,,,2021-07-24 18:37:59,2021-07-24 18:38:00,0.837s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_1_score_1_3""), ""10"")",Chrome 92.0.4515.107,,,2021-07-24 18:38:00,2021-07-24 18:38:01,0.743s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_1""), ""10"")",Chrome 92.0.4515.107,,,2021-07-24 18:38:01,2021-07-24 18:38:01,0.747s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_2""), ""20"")",Chrome 92.0.4515.107,,,2021-07-24 18:38:01,2021-07-24 18:38:02,0.712s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input_2_score_2_3""), ""20"")",Chrome 92.0.4515.107,,,2021-07-24 18:38:02,2021-07-24 18:38:03,0.732s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input__form-control form-control-lg form-co_14a1f4""), ""มานะ ทันที"")",Chrome 92.0.4515.107,,,2021-07-24 18:38:03,2021-07-24 18:38:04,0.949s,PASSED
+"setText(findTestObject(""UAT-PA-01-001/input__form-control form-control-lg form-co_left""), ""สมบูรณ์ พูนพัน"")",Chrome 92.0.4515.107,,,2021-07-24 18:38:04,2021-07-24 18:38:05,1.047s,PASSED
+"setText(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/input__fullname_result_evaluate3""), ""วีระพงษ์ ขวัญมา"")",Chrome 92.0.4515.107,,,2021-07-24 18:38:05,2021-07-24 18:38:06,0.937s,PASSED
+"click(findTestObject(""Object Repository/UAT-PA-01-001/Page_(DPA)/i_Back_fa fa-arrow-left""))",Chrome 92.0.4515.107,,,2021-07-24 18:38:06,2021-07-24 18:38:06,0.525s,PASSED
+closeBrowser(),Chrome 92.0.4515.107,,,2021-07-24 18:38:06,2021-07-24 18:38:06,0.204s,PASSED
+Video,Chrome 92.0.4515.107,,,2021-07-24 18:38:09,2021-07-24 18:38:09,0.001s,PASSED

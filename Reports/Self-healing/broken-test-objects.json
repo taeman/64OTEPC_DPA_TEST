@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/UAT-PA-01-001/Page_(DPA)/path_Created with Sketch_Path-11",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@id \u003d \u0027Path-11\u0027]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/UAT-PA-01-001/Page_(DPA)/path_Created with Sketch_Path-11_BASIC.png"
+    }
+  ]
+}
